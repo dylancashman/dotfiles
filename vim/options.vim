@@ -32,3 +32,5 @@ set showbreak="@" " This is prepended to wrapped lines
 
 set list listchars=tab:»·,trail:· " Display extra whitespace
 set laststatus=2                  " Always show status line (not only for multiple windows)
+
+set colorcolumn=80 " Display color line on column 80
