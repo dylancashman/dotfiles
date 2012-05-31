@@ -49,3 +49,4 @@ Bundle 'molokai'
 "   set background=dark
 "   colorscheme solarized
 Bundle 'altercation/vim-colors-solarized'
+Bundle 'vim-scripts/CSApprox'
