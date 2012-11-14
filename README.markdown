@@ -1,3 +1,6 @@
+Forked from Will Mernagh's dotfiles.  They were originally IoraHealth's dotfiles.  The original README is below:
+-Dylan Cashman
+
 # IoraHealth's dotfiles
 These are my dotfiles: `~/.*`
 
